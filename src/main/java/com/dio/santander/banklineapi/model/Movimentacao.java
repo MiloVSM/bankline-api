@@ -32,6 +32,7 @@ public class Movimentacao {
 	public void setId(Integer id) {
 		this.id = id;
 	}
+	
 	public LocalDateTime getDataHora() {
 		return dataHora;
 	}
